@@ -4,7 +4,6 @@ homework2
 
 int main(){
       int a;
-      printf("6");
       scanf("%d, &a);
       printf("%d\n",a);
       
